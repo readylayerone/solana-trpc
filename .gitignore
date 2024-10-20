@@ -1,2 +1,6 @@
+# dependencies
 /node_modules/**
 bun.lockb
+
+# environment variables
+.env
